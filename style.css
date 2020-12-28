@@ -81,6 +81,7 @@ header.sticky ul li a {
     margin-top: 100px;
 }
 
+
 /* info panel */
 .info-panel {
     box-shadow: 0 3px 20px rgba(0,0,0,0.5);
@@ -154,7 +155,15 @@ header.sticky ul li a {
 }
 
 /* contact */
+.contact {
+    background: url(img/adult.jpg);
+    background-size: cover;
+}
 
+/* footer */
+.footer {
+    margin-top: -50px;
+}
 
 
 /* dekstop version */
